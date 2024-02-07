@@ -21,17 +21,11 @@ This is a simple web application that allows users to select a category (Men, Wo
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
+## Google Drive Link
 
-<<<<<<< HEAD
-![Screenshot 1](/path/to/your/screenshot1.png)
-![Screenshot 2](/path/to/your/screenshot2.png)
+You can access my completed work through the following Google Drive folder: [Google Drive Folder](https://drive.google.com/drive/folders/1OQmQ2GwZsBtRYVIqsxvdZIGn12c-CpN0?usp=drive_link).
 
 ## Hosting Link
 
-You can access the hosted version of this project [here](https://shubhamjha2.github.io/Coding-assignment/).
+You can also access the hosted version of this project [here](https://shubhamjha2.github.io/Coding-assignment/).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
-=======
->>>>>>> c589d9e4774e107b06b5eb2c170de96c0e2b4163
