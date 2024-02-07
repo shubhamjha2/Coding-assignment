@@ -26,6 +26,10 @@ This is a simple web application that allows users to select a category (Men, Wo
 ![Screenshot 1](/path/to/your/screenshot1.png)
 ![Screenshot 2](/path/to/your/screenshot2.png)
 
+## Hosting Link
+
+You can access the hosted version of this project [here](https://shubhamjha2.github.io/Coding-assignment/).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
