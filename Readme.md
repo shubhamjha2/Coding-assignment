@@ -21,11 +21,4 @@ This is a simple web application that allows users to select a category (Men, Wo
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
-## Screenshots
 
-![Screenshot 1](/path/to/your/screenshot1.png)
-![Screenshot 2](/path/to/your/screenshot2.png)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
