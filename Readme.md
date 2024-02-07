@@ -21,8 +21,8 @@ This is a simple web application that allows users to select a category (Men, Wo
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
-## Screenshots
 
+<<<<<<< HEAD
 ![Screenshot 1](/path/to/your/screenshot1.png)
 ![Screenshot 2](/path/to/your/screenshot2.png)
 
@@ -33,3 +33,5 @@ You can access the hosted version of this project [here](https://shubhamjha2.git
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+=======
+>>>>>>> c589d9e4774e107b06b5eb2c170de96c0e2b4163
